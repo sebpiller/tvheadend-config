@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "RTS1",
+	"name": "RTS1",
+	"names": "\"RTS1\"",
+	"number": 0,
+	"channels": [
+		"6c5e6ee2b27331c8dfae9c41b30d356d",
+		"4f1fadd83f0be2f4df183d401fd75425"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "NRJ12",
+	"name": "NRJ12",
+	"names": "\"NRJ12\"",
+	"number": 0,
+	"channels": [
+		"7765b2e02de1564a2388bfcec5f7d727"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

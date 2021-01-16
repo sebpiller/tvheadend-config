@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "CHASSE_PECHE",
+	"name": "CHASSE_PECHE",
+	"names": "\"CHASSE_PECHE\"",
+	"number": 0,
+	"channels": [
+		"0b86ffa6368cc8b2b8de6affa4f23c46"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

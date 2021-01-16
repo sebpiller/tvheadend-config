@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "CANALPLUS",
+	"name": "CANALPLUS",
+	"names": "\"CANALPLUS\"",
+	"number": 0,
+	"channels": [
+		"5d24b7bc2290b7a9ab4456d221b4c387"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

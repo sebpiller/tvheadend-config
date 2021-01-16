@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "RAI_UNO",
+	"name": "RAI_UNO",
+	"names": "\"RAI_UNO\"",
+	"number": 0,
+	"channels": [
+		"a7ffd56cd10b996d61483865f70d966f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

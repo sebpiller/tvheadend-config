@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "TV5MONDE",
+	"name": "TV5MONDE",
+	"names": "\"TV5MONDE\"",
+	"number": 0,
+	"channels": [
+		"574fa4eb5292f44ba6abd51262df49f0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

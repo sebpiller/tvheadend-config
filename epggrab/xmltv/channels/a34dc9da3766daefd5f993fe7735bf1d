@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "OCS_CHOC",
+	"name": "OCS_CHOC",
+	"names": "\"OCS_CHOC\"",
+	"number": 0,
+	"channels": [
+		"b18772a367a1edd8823391bab53e6b13"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

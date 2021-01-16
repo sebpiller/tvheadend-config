@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "SRF1",
+	"name": "SRF1",
+	"names": "\"SRF1\"",
+	"number": 0,
+	"channels": [
+		"6d0d0ea54fc95ebd1d078d7d54ebfa41"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

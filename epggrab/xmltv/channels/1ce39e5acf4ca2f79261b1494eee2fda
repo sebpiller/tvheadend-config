@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "RAI_DUE",
+	"name": "RAI_DUE",
+	"names": "\"RAI_DUE\"",
+	"number": 0,
+	"channels": [
+		"f92125b8651b1fc4534b48135b85b148"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

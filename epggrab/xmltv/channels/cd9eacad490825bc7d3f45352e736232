@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "OCS_GEANTS",
+	"name": "OCS_GEANTS",
+	"names": "\"OCS_GEANTS\"",
+	"number": 0,
+	"channels": [
+		"213ab08b580c0622dbb8f2714911faae"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

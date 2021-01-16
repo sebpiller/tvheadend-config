@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "Rtv SAN MARINO",
+	"number": 0,
+	"icon": "file:///picons/rtvsanmarino.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"da70b2f2c13eaa07759bd8388f1dcc17"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

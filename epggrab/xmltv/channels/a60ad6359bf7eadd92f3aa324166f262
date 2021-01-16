@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "FRANCE4",
+	"name": "FRANCE4",
+	"names": "\"FRANCE4\"",
+	"number": 0,
+	"channels": [
+		"557d5cdbd50aec45bcf72ec4e72d4801"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "MANGAS",
+	"name": "MANGAS",
+	"names": "\"MANGAS\"",
+	"number": 0,
+	"channels": [
+		"89627089af9497d2e1e02b1b4363133f"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

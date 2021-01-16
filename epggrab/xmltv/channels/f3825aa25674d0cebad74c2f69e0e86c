@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "LCP",
+	"name": "LCP",
+	"names": "\"LCP\"",
+	"number": 0,
+	"channels": [
+		"65b962623fe83cf476f85e809f598e48"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "W9",
+	"name": "W9",
+	"names": "\"W9\"",
+	"number": 0,
+	"channels": [
+		"9eabfbe2c65c51876376436fbb70a7f0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "RTL9",
+	"name": "RTL9",
+	"names": "\"RTL9\"",
+	"number": 0,
+	"channels": [
+		"bebcb835d412936bb99d66e8cd138f29"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

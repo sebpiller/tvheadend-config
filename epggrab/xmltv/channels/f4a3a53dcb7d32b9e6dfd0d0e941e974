@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "USHUAIA",
+	"name": "USHUAIA",
+	"names": "\"USHUAIA\"",
+	"number": 0,
+	"channels": [
+		"473df181ed2dc90e6a8b3a6fa23a8bba"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

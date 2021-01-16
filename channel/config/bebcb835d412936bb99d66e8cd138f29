@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "RTL9 CH",
+	"number": 0,
+	"icon": "http://static.epg.best/lu/RTL9.lu.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"34c5a5558b30c88757d5499e6a50b6c4",
+		"420866826381d987af143e6fed1da03a"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

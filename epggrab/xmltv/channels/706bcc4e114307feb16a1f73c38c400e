@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "DISNEY_CHANNEL",
+	"name": "DISNEY_CHANNEL",
+	"names": "\"DISNEY_CHANNEL\"",
+	"number": 0,
+	"channels": [
+		"44ec5d6b3d41200b5d8c3090b20a0a58"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "Paramount channel",
+	"number": 0,
+	"icon": "http://static.epg.best/fr/ParamountChannel.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"147b9ff2bf8ddfd40b64b2e0110133ef"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

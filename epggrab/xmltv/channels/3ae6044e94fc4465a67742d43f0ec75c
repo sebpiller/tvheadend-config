@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "VOYAGE",
+	"name": "VOYAGE",
+	"names": "\"VOYAGE\"",
+	"number": 0,
+	"channels": [
+		"6a91c515f65f16cfc777b8641ca71abd"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

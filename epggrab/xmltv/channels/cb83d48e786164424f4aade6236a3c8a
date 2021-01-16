@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "LCI",
+	"name": "LCI",
+	"names": "\"LCI\"",
+	"number": 0,
+	"channels": [
+		"d73049e60c090eebb0702bfe0d394a64"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

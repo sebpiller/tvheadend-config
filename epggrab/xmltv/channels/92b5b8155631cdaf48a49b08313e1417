@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "OCS_CITY",
+	"name": "OCS_CITY",
+	"names": "\"OCS_CITY\"",
+	"number": 0,
+	"channels": [
+		"4ae864cff681cec83c5d1f109b40a877"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

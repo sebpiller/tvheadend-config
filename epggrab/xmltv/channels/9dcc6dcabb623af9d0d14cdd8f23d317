@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "FRANCE5",
+	"name": "FRANCE5",
+	"names": "\"FRANCE5\"",
+	"number": 0,
+	"channels": [
+		"3d939cfc261e4623b71df509453135a1"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

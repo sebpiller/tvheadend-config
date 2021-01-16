@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "TF1",
+	"name": "TF1",
+	"names": "\"TF1\"",
+	"number": 0,
+	"channels": [
+		"25369ea4392f0f7fff09db9b5fdc4351"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

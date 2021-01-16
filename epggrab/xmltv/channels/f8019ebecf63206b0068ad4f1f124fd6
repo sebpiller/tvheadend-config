@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "NUMERO23",
+	"name": "NUMERO23",
+	"names": "\"NUMERO23\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

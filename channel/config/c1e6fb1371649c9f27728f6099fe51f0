@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "CanalAlpha JU",
+	"number": 0,
+	"icon": "http://static.epg.best/ch/CanalAlpha.ch.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"999d6f852cd1df811f3739e36ff9cb19",
+		"5e2155d2f1e721dfbfb98940ae643f62"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

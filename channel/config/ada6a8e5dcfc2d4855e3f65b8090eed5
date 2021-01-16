@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"name": "tve international",
+	"number": 0,
+	"icon": "http://static.epg.best/es/TVEIntEu.es.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"0e3f80ed76eee8b0709bedf694a11f36"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

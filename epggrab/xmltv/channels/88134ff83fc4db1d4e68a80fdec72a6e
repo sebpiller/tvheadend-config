@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "ROUGETV",
+	"name": "ROUGETV",
+	"names": "\"ROUGETV\"",
+	"number": 0,
+	"channels": [
+		"be36de04883fd5300c899584028eb844"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

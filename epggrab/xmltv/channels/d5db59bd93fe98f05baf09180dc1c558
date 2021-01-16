@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "SYFY",
+	"name": "SYFY",
+	"names": "\"SYFY\"",
+	"number": 0,
+	"channels": [
+		"bc3b821d5ec4d187bc96d15398328cb2"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

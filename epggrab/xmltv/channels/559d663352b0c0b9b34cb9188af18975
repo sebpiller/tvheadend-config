@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "OCS_MAX",
+	"name": "OCS_MAX",
+	"names": "\"OCS_MAX\"",
+	"number": 0,
+	"channels": [
+		"32e267d931ef3ada6ab5200e0b9bbfc0"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "TFX",
+	"name": "TFX",
+	"names": "\"TFX\"",
+	"number": 0,
+	"channels": [
+		"e98ed8e605bcae8b758f1e919aff07f8"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

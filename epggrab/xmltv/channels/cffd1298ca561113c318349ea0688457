@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "RTS2",
+	"name": "RTS2",
+	"names": "\"RTS2\"",
+	"number": 0,
+	"channels": [
+		"800bc7cc6b83448653417be235fcdee8",
+		"ba184a940e59a1b5c2b840dce636d909"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

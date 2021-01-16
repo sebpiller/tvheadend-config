@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "TF1 CH",
+	"number": 0,
+	"icon": "http://static.epg.best/fr/TF1.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"fe882ca305e61ab39502a9fb32c4f84f",
+		"94a128faaf58f24ae24caf54c1dbeb48"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"b87191dea8fe8967e237bc2989a481c1",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

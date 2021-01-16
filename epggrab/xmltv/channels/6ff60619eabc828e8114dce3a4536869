@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "TV8MONTBLANC",
+	"name": "TV8MONTBLANC",
+	"names": "\"TV8MONTBLANC\"",
+	"number": 0,
+	"channels": [
+		"e1bd6eedff388bf7af3084218efd3b93"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

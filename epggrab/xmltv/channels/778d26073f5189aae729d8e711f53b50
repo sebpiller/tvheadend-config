@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "EQUIDIA",
+	"name": "EQUIDIA",
+	"names": "\"EQUIDIA\"",
+	"number": 0,
+	"channels": [
+		"f6de0aeeb5d228a32b17855508f1a448"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

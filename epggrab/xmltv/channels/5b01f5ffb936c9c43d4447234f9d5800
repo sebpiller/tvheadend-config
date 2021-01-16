@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "RSI2",
+	"name": "RSI2",
+	"names": "\"RSI2\"",
+	"number": 0,
+	"channels": [
+		"95b2e5ec32b55accb65e4954962ec578"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

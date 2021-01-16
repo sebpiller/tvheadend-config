@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "ARTE",
+	"name": "ARTE",
+	"names": "\"ARTE\"",
+	"number": 0,
+	"channels": [
+		"b4c5708193595e550c31d81286a1f0c7"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "DISNEY_JUNIOR",
+	"name": "DISNEY_JUNIOR",
+	"names": "\"DISNEY_JUNIOR\"",
+	"number": 0,
+	"channels": [
+		"f711c9f2cdc8a2ccb24855b55d012e42"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

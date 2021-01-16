@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "OCS MAX",
+	"number": 0,
+	"icon": "https://static.epg.best/fr/OCSMax.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"7e7e4e439683f0675b586ad6ceb44f02",
+		"6b40cdfa8be0c5c3b219e81ba0704d27"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

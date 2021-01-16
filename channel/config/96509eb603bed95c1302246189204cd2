@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///picons/radiolausannefm.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"bbdf6e3b6c4cec4f9cbadc31946463f2"
+	],
+	"tags": [
+		"d32f9ea404e27f148365f2a5ba5db687",
+		"2356bcbc40550c2f0438740203f27c6d"
+	],
+	"bouquet": ""
+}

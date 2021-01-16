@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "NATGEO",
+	"name": "NATGEO",
+	"names": "\"NATGEO\"",
+	"number": 0,
+	"channels": [
+		"f173ef444b8c14311701a7e4c06b8bbf"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

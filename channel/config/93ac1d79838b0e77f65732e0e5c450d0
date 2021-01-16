@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///picons/hotmixmetal.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"c0c3ff07c7a6d9b73704546835c70f21"
+	],
+	"tags": [
+		"d32f9ea404e27f148365f2a5ba5db687",
+		"2356bcbc40550c2f0438740203f27c6d"
+	],
+	"bouquet": ""
+}

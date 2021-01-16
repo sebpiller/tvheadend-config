@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "FRANCE2",
+	"name": "FRANCE2",
+	"names": "\"FRANCE2\"",
+	"number": 0,
+	"channels": [
+		"849a841a95e5bf5b0c3c57c3224af536"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

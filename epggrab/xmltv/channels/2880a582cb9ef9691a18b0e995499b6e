@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "LEQUIPE21",
+	"name": "LEQUIPE21",
+	"names": "\"LEQUIPE21\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

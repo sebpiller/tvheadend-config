@@ -1,0 +1,21 @@
+{
+	"enabled": false,
+	"maptoch": true,
+	"mapopt": [
+		"mapradio",
+		"encrypted"
+	],
+	"chtag": [
+		"bouquet_tag"
+	],
+	"chtag_ref": "",
+	"name": "SunriseRadio",
+	"ssl_peer_verify": false,
+	"ext_url_period": 60,
+	"source": "iptv-network://d01a0498a447d154df2e6cf850fd043c",
+	"services": {
+	},
+	"services_seen": 115,
+	"comment": "https://iptv-ch.github.io/sunrise-radio.m3u",
+	"lcn_off": 0
+}

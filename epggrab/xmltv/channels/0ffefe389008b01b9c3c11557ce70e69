@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "SIXTER",
+	"name": "SIXTER",
+	"names": "\"SIXTER\"",
+	"number": 0,
+	"channels": [
+		"0e94b06c0111699e8f490ea72930cf6a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "M6",
+	"name": "M6",
+	"names": "\"M6\"",
+	"number": 0,
+	"channels": [
+		"fd7fe04bb2fa27e107b0338da986a496"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

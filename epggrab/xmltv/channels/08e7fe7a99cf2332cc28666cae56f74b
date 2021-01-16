@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "TMC",
+	"name": "TMC",
+	"names": "\"TMC\"",
+	"number": 0,
+	"channels": [
+		"a8844272718d5605dc7fb48d9f2f67d1"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "FRANCE24",
+	"name": "FRANCE24",
+	"names": "\"FRANCE24\"",
+	"number": 0,
+	"channels": [
+		"673cd2ae36ace130bd050d58aeb40c62"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

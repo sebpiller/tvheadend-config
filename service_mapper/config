@@ -1,0 +1,10 @@
+{
+	"check_availability": false,
+	"encrypted": true,
+	"merge_same_name": true,
+	"merge_same_name_fuzzy": true,
+	"tidy_channel_name": true,
+	"type_tags": true,
+	"provider_tags": false,
+	"network_tags": true
+}

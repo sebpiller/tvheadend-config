@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "CSTAR",
+	"name": "CSTAR",
+	"names": "\"CSTAR\"",
+	"number": 0,
+	"channels": [
+		"afaee76334963c01f8bb334718b36ca2"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

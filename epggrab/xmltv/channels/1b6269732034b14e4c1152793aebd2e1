@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "NATGEOWILD",
+	"name": "NATGEOWILD",
+	"names": "\"NATGEOWILD\"",
+	"number": 0,
+	"channels": [
+		"1cdb8a1deb50be23f3673dfd2c88c3e1"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

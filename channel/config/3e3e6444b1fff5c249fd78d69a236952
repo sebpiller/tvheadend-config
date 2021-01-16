@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///picons/radiogrischa.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"1f966005cb6ea9becf8b694418439053"
+	],
+	"tags": [
+		"d32f9ea404e27f148365f2a5ba5db687",
+		"2356bcbc40550c2f0438740203f27c6d"
+	],
+	"bouquet": ""
+}

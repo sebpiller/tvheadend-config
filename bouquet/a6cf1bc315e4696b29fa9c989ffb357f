@@ -1,0 +1,21 @@
+{
+	"enabled": false,
+	"maptoch": true,
+	"mapopt": [
+		"mapradio",
+		"encrypted"
+	],
+	"chtag": [
+		"bouquet_tag"
+	],
+	"chtag_ref": "",
+	"name": "TvOpenCH-fr",
+	"ssl_peer_verify": false,
+	"ext_url_period": 60,
+	"source": "iptv-network://0605055b1aac165d9171f1ad69893a54",
+	"services": {
+	},
+	"services_seen": 72,
+	"comment": "https://iptv-ch.github.io/tvopenchfr.m3u",
+	"lcn_off": 0
+}

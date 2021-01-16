@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "franceinfo",
+	"number": 0,
+	"icon": "http://static.epg.best/fr/FranceInfo.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"b9d77b38b8d34abdf0b286a1e964c97c",
+		"9c1598ce9c0e431795b30bbac754f212"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

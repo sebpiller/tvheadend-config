@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "OCS choc",
+	"number": 0,
+	"icon": "https://static.epg.best/fr/OCSChoc.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"6d693bb9135dd2823a8518ab4511af04",
+		"1044e45f0f926c8caf8c33e94573af29"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "EUROSPORT",
+	"name": "EUROSPORT",
+	"names": "\"EUROSPORT\"",
+	"number": 0,
+	"channels": [
+	],
+	"only_one": false,
+	"update": [
+	]
+}

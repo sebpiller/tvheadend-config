@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "FRANCE3",
+	"name": "FRANCE3",
+	"names": "\"FRANCE3\"",
+	"number": 0,
+	"channels": [
+		"06a8ee26c76bc845dbbf6b4cbe07242a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

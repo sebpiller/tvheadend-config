@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "THIRTEENTH_STREET",
+	"name": "THIRTEENTH_STREET",
+	"names": "\"THIRTEENTH_STREET\"",
+	"number": 0,
+	"channels": [
+		"d3f626a411dd535ca6f76bd3cc2717a3"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

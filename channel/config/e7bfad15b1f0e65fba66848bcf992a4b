@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "ALSACE 20",
+	"number": 0,
+	"icon": "https://static.epg.best/fr/Alsace20.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"d62310a10be0d7f42be7f9bf77ea0eee",
+		"6d5a36566fb73f3e11eb410756afa739"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

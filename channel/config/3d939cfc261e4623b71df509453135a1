@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "France5",
+	"number": 0,
+	"icon": "http://static.epg.best/fr/France5.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"85308bb1846ae68f0bb67c3fd2e0ffc3",
+		"5fb57911b4440370332ecb5a05ce2508"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

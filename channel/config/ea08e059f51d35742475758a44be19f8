@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "http://static.epg.best/uk/HGTV.uk.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"3b39b1b965edf42bcccd577546c31df9"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}

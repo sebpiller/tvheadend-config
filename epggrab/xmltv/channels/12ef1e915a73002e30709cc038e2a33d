@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "PARAMOUNT",
+	"name": "PARAMOUNT",
+	"names": "\"PARAMOUNT\"",
+	"number": 0,
+	"channels": [
+		"95b3741a4e7f6408faf1b75bf27ab4c3",
+		"ac59030adf2d41a9beb47682255a424a"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"enabled": false,
+	"maptoch": true,
+	"mapopt": [
+		"mapradio",
+		"encrypted"
+	],
+	"chtag": [
+		"bouquet_tag"
+	],
+	"chtag_ref": "",
+	"name": "SwisscomHD",
+	"ssl_peer_verify": false,
+	"ext_url_period": 60,
+	"source": "iptv-network://503ebfff171e9582756e094f0cbb416a",
+	"services": {
+	},
+	"services_seen": 406,
+	"comment": "https://iptv-ch.github.io/swisscom-hd.m3u",
+	"lcn_off": 0
+}

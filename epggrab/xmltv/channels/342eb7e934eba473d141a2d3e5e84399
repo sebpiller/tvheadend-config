@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "AB3",
+	"name": "AB3",
+	"names": "\"AB3\"",
+	"number": 0,
+	"channels": [
+		"c5c23010c8b6c1fb1cb2f39cca99d47d"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

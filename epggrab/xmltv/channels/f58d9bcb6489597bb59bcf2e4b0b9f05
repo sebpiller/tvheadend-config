@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "CNEWS",
+	"name": "CNEWS",
+	"names": "\"CNEWS\"",
+	"number": 0,
+	"channels": [
+		"3255db9508cd9c72331a736e1d080417"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

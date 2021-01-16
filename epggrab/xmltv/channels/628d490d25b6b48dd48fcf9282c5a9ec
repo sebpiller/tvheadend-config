@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "C8",
+	"name": "C8",
+	"names": "\"C8\"",
+	"number": 0,
+	"channels": [
+		"12ed714b91a5347c1d0b80d3b63a21db"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

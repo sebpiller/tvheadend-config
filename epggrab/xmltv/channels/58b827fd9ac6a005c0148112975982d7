@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"modid": "/usr/bin/tv_grab_file",
+	"id": "BFM_TV",
+	"name": "BFM_TV",
+	"names": "\"BFM_TV\"",
+	"number": 0,
+	"channels": [
+		"3709480e0d3826902cd796001e1b17b3"
+	],
+	"only_one": false,
+	"update": [
+	]
+}

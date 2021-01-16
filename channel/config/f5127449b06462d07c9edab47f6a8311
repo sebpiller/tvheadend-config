@@ -1,0 +1,22 @@
+{
+	"enabled": true,
+	"name": "Nautical Channel",
+	"number": 0,
+	"icon": "http://static.epg.best/fr/NauticalChannel.fr.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"0f0864fe6cd481551f0256df5d65b707",
+		"ea9662e8031a39c6c3ae2a15d86e07e3"
+	],
+	"tags": [
+		"88ce5f1a3af3eae1cf6e8629ef08872b",
+		"16c2ec68541335fe0da48f289e357d80",
+		"14f5c9633b276700e194baf5d83c9011",
+		"27186504b68a44112729f0bc509733ef"
+	],
+	"bouquet": ""
+}
